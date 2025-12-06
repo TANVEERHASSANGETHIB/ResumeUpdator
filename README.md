@@ -135,6 +135,11 @@ job-application-assistant/
 **Database:** Supabase  
 **AI:** OpenRouter (Llama 3.2)
 
+
+## Live Website Link
+
+https://resumeupdator.netlify.app
+
 ---
 
 ## 📧 Need Help?
